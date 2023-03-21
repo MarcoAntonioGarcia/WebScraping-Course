@@ -1,0 +1,101 @@
+description,id,question
+"
+                I am sharing a code that should create a table if the table does not exist
+The problem is that the code stops when it sees that the table does not exist
+The question is how do I reach the first ...
+            ",[0],"Question about a condition in SQL: if the table does not exist, create a table in node js"
+,[1],
+"
+                I'm trying to put a check for assertions in my sqlx files. When I say, a check for assertions I want some ""linting"" measure that checks whether I have enough assertions in my sqlx files or ...
+            ",[2],Check for assertions in sqlx (Linting/Quality)
+,[3],
+"
+                Right now I am having trouble specifying a row in a css grid. What I am trying to achieve is a row that grows with its content, but up to a maximum value. Something like this:
+min(min-content, 80vh)
+...
+            ",[4],"Is there a way of specifying a css grid row to grow with content, up to a maximum value?"
+,[5],
+"
+                okay so here is my code:
+I have a class that saves another class objects in an ArrayList:
+import java.util.ArrayList;
+public class FencersList {
+    private ArrayList<Fencers> collection;
+    ...
+            ",[6],Read a json file and save it in a class array GSON java
+,[7],
+"
+                df <- data.frame(percent=c(3, 5, 2),
+                 method=c(""A"", ""A"", ""B""),
+                 ancestry=c(""European"", ""African"", 'African'),
+      ...
+            ",[8],Fill in missing values in one group of faceted plot
+,[9],
+"
+                I’m willing to be able to edit host crontab content from within a docker container that runs on that host.
+Host is running on Ubuntu.
+How can I achieve this in run time?
+I need a cli command.
+I’ve ...
+            ",[10],Access host crontab from docker container
+,[11],
+"
+                I've got a JSON document that looks like this:
+{
+  ""name"": ""My Team"",
+  ""team size"": [
+    {
+      ""min"": [
+        {
+          ""Leader"": 1
+        },
+...
+            ",[12],Trying to transform over-complicated array of objects in JSON using JQ
+,[13],
+"
+                Is it possible to make generic type of nested object properties?
+Something like this:
+type func = <P extends any>(props: P) => ...
+type Obj = {
+   [key: string]: {f: func, args: PARAMETERS OF ...
+            ",[14],Typescript object of objects with generic properties
+,[15],
+"
+                so I have a Discord Bot and I wanted to create a memberInfo slashcommand. So I made this code for it:
+const { ChatInputCommandInteraction, SlashCommandBuilder, EmbedBuilder, AttachmentBuilder } = ...
+            ",[16],"Error ""TypeError: this.options.files?.map is not a function"""
+,[17],
+"
+                I am trying to merge two small data frames on their row values, but when I do that I get a
+Warning message:
+In merge.data.frame(p, q, by = 0, all = TRUE) :
+  column name ‘Row.names’ is duplicated in ...
+            ",[18],Merge data frames on rows in R without getting duplicate columns - R
+,[19],
+"
+                I'm trying to create a Chrome extension that uses the OpenAI API, and I've noticed that some extensions are able to obtain API keys without prompting users to enter them directly. Instead, these ...
+            ",[20],How do Chrome extensions obtain API keys without prompting users to enter them directly?
+,[21],
+"
+                My code,the error is most likely present in the def on_message line.
+if there is any useful doccumentation that is related to this please link it down below
+import discord
+
+client = client = discord....
+            ",[22],"I have a python discord bot that is supossed to print out messages in a server + the author,instead of this it prints out blank characters"
+,[23],
+"
+                I have a dataframe like this.
+DF <- data.frame(names = c(""john"", ""bob"", ""frank"", ""bill"", ""sam""),
+                 pets  = c(""dog"", ""...
+            ",[24],grouping instructions in R dataframe
+,[25],
+"
+                I have a list with len = 9, I want to check if every 3rd value are equal and if there is one match of 3 equals, print them out. I need to do it in one dimensional array
+            ",[26],is item equal to every 3rd item in a list python
+,[27],
+"
+                I want to be able to call a function through a visual scripting graph but I can find any info online about it.
+I found the invoke node in the script tab when you go and make a new node after I added ...
+            ",[28],how do could i call a c# function through a VisualScripting graph in unity
+,[29],
